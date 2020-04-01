@@ -1,0 +1,1 @@
+pip install pyppeteer 时需要在anconda环境下安装，其他环境下安装可能会不成功
